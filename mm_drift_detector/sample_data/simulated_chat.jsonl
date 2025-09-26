@@ -1,0 +1,4 @@
+{"ts": "2025-09-26 10:01:15", "role": "assistant", "text": "Data Drift Alert - ATTENTION\n\nNulls increased in 'email'. 'amount' shows numeric drift. Release notes mention schema change. Suggested action: validate ETL and backfill missing values."}
+{"ts": "2025-09-26 10:02:05", "role": "user", "text": "Got it, I’ll check the ETL pipeline right now."}
+{"ts": "2025-09-26 10:03:10", "role": "user", "text": "We also updated the currency conversion last night, that could explain the 'amount' drift."}
+{"ts": "2025-09-26 10:04:00", "role": "assistant", "text": "Thanks for confirming. Logging this in the incident tracker."}

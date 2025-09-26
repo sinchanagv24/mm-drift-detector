@@ -1,0 +1,5 @@
+Release Notes - API v2
+
+- Reporting currency switched from USD to EUR
+- Added new schema fields for transaction category
+- Minor bug fixes

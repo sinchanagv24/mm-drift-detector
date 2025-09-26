@@ -1,0 +1,3 @@
+Release Notes - API v2
+- Switched reporting currency from USD to EUR
+- Minor bug fixes
